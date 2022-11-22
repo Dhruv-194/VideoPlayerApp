@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/vidBotM"
+    android:title="Videos"
+    android:icon="@drawable/all_videos"/>
+
+    <item
+        android:id="@+id/fileBotM"
+        android:title="Files"
+        android:icon="@drawable/folder"/>
+
+    <item
+        android:id="@+id/favBotM"
+        android:title="Favourite"
+        android:icon="@drawable/ic_favorite"/>
+
+</menu>
