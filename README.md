@@ -25,3 +25,5 @@ The user can also click on the 'like' button to like a video which can then be v
 - **Dependency Injection Hilt :** Used along with ROOM Db to show favoruites video. 
 
 
+### Screenshots - 
+<img src="Screenshots/Screenshot_20221227-204446.png" height = "400" width="200"><img src="Screenshots/Screenshot_20221227-204454.png" height = "400" width="200" hspace="10"> <img src="Screenshots/Screenshot_20221227-204500.png" height = "400" width="200">
